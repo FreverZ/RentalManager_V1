@@ -29,7 +29,7 @@ Executing .exe file:
 ./a
 ```
 
-After executing these commands the application should be working on your cmd.
+After executing these commands the application should be working on your cmd/terminal.
 
 Copyright (c) 2023
 
