@@ -1,39 +1,38 @@
-# Estruturas de Dados Avançados
+# Advanced Data Structures
 
-## Pré-requisitos
+## Prerequisites
 
 [GNU Compiler Collection](https://gcc.gnu.org/install/download.html)
 
 [Git](https://git-scm.com/downloads)
 
 
-## Instalação
+## Instalation
 
-Executar seguintes comandos:
+Execute these commands on your cmd:
 
 ```
 git clone https://github.com/FreverZ/RentalManager_V1
+cd RentalManager_V1
 ```
-ou
+
+## Application
 
 
-## Utilização
-
-
-Compilar o ficheiro .c
+Compilling .c file:
 ```bash
 gcc *.c 
 ```
 
-Executar o ficheiro .exe
+Executing .exe file:
 ```bash
 ./a
 ```
 
-Após realizar esses comandos, o programa executará na consola e poderá usufruir do mesmo.
+After executing these commands the application should be working on your cmd.
 
-## Autores
+Copyright (c) 2023
 
-Feito por:
+## Authors
 
 - FreverZ
